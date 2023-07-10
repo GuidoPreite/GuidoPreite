@@ -4,6 +4,8 @@ I'm a Software Architect focused on **Microsoft Dynamics** (CRM, 365 Customer En
 
 I participate in online communities and I am a <a target="_blank" alt="Microsoft MVP" title="Microsoft MVP" href="https://mvp.microsoft.com/en-us/PublicProfile/5001218">Microsoft MVP</a> (Business Applications).
 
+I am a Community Manager of <a target="_blank" alt="Community Events .IT" title="Community Events .IT" href="https://www.communityevents.it">Community Events .IT</a>, the site to find your next community event!
+
 I maintain 
 <a target="_blank" alt="PCF Gallery" title="PCF Gallery" href="https://pcf.gallery">PCF Gallery</a>, a website showing PCF controls created by the community.
 
